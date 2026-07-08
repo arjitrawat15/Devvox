@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="apps/frontend/public/logo.svg" alt="Devvox Logo" width="80" height="80" />
-</p>
-
 <h1 align="center">Devvox</h1>
 
 <p align="center">
