@@ -291,8 +291,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
   <a href="https://github.com/arjitrawat15">
     <img src="https://img.shields.io/badge/GitHub-arjitrawat15-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/arjitrawat">
-    <img src="https://img.shields.io/badge/LinkedIn-Arjit_Rawat-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/arjitrawat15">
+    <img src="https://img.shields.io/badge/LinkedIn-Arjit_Rawat15-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
