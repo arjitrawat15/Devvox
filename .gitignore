@@ -1,0 +1,43 @@
+# Dependencies
+node_modules
+
+# Local env files
+.env
+.env.local
+.env.*.local
+
+# Build Outputs
+dist
+out
+*.tgz
+
+# Python
+__pycache__
+*.pyc
+venv
+.venv
+*.egg-info
+
+# Logs & Debug
+npm-debug.log*
+logs
+*.log
+
+# Caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# Coverage
+coverage
+*.lcov
+
+# Worktrees
+.worktrees
+
+# IDE
+.idea
+
+# Misc
+.DS_Store
+*.pem
