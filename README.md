@@ -277,12 +277,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
 <p align="center">
   <strong>Built with passion by <a href="https://github.com/arjitrawat15">Arjit Rawat</a></strong>
 </p>
@@ -292,7 +286,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
     <img src="https://img.shields.io/badge/GitHub-arjitrawat15-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/arjitrawat15">
-    <img src="https://img.shields.io/badge/LinkedIn-arjitrawat15-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-arjitrawaT15-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
